@@ -12,7 +12,7 @@
 
 ### 🛠️ Языки и инструменты:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode," />
 </p>
 
 ---
