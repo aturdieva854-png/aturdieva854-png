@@ -54,7 +54,7 @@
 ## 🎮 Контакты
 📩 Связь со мной:
 - GitHub: https://github.com/ТВОЙ_USERNAME
-- Telegram: @your_username
+- Telegram: @baelchic
 
 ---
 
