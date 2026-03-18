@@ -15,42 +15,28 @@
 
 ---
 
-## ⚙️ Навыки
-<p>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+
+### 🛠 Стек технологий:
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🧩 Чем занимаюсь
-- 🎯 Адаптивная верстка сайтов  
-- 🧠 Логика и интерактив на JavaScript  
-- 🧱 Компоненты и UI-блоки  
-- 🔌 Работа с API  
-- 📁 Контроль версий через GitHub  
+### 📊 Моя статистика:
 
----
-
-## 🕹️ GitHub статистика
 <p align="center">
-  <img src= "https://github-readme-stats.vercel.app/api?username=baelkalykov"
-
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_USERNAME&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
-
-## 🚀 Активность
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_НИК&theme=radical&hide_border=true" />
 </p>
-
----
 
 ## 🎮 Контакты
 📩 Связь со мной:
