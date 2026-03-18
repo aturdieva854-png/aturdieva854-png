@@ -40,7 +40,7 @@
 
 ## 🎮 Контакты
 📩 Связь со мной:
-- GitHub: https://github.com/ТВОЙ_USERNAME
+- GitHub:"https://github.com/aturdieva854-png"
 - Telegram: @baelchic
 
 ---
