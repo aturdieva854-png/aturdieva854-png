@@ -30,12 +30,12 @@
 ### 📊 Моя статистика:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aturdieva854-png&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aturdieva854-png&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_НИК&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aturdieva854-png&theme=radical&hide_border=true" />
 </p>
 
 ## 🎮 Контакты
