@@ -1,5 +1,5 @@
 
-<h1 align="center">🎮 Frontend Developer | BAEL</h1>
+<h1 align="center"> Frontend Developer | BAEL</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Dark+Gaming+Style;VS+Code+%26+GitHub" />
@@ -7,16 +7,16 @@
 
 ---
 
-## 🕹️ Обо мне
-💻 **Frontend-разработчик**  
-🎨 Работаю в **тёмном геймерском стиле**  
-⚡ Занимаюсь **версткой и JavaScript**  
-🧠 Постоянно прокачиваю навыки и изучаю новые технологии  
+##  Обо мне
+ **Frontend-разработчик**  
+ Работаю в **тёмном геймерском стиле**  
+ Занимаюсь **версткой и JavaScript**  
+ Постоянно прокачиваю навыки и изучаю новые технологии  
 
 ---
 
 
-### 🛠 Стек технологий:
+###  Стек технологий:
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
